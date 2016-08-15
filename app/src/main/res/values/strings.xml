@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Stormy</string>
+    <string name="error_title">Oops, sorry!</string>
+    <string name="error_message">Something went wrong.Please try again</string>
+    <string name="error_ok_button_text">OK</string>
+    <string name="error_network_unavilable">Network is un-available</string>
+    <string name="degree_symbol">degree_symbol</string>
+    <string name="time_format">"At %1$s it will be"</string>
 </resources>
